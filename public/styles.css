@@ -94,9 +94,19 @@ nav a {
     padding-top: 20px;
 }
 
+.date {
+    font-style: italic;
+}
+
 .experience-details {
     flex-grow: 1;
 }
+
+.experience-details ul {
+    padding-left: 30px;
+    line-height: 2;
+}
+
 
 .projects-title {
     margin-bottom: 30px;
